@@ -17,7 +17,7 @@ struct ContentView: View {
             // Add more EmojiViews to decorate your Bobby
             EmojiView(symbol: "🤨", size: 100, x: 0,  y: -120)
             EmojiView(symbol: "✌️", size: 60, x: 60,  y: -80)
-            EmojiView(symbol: "💩", size: 50, x: 60,  y: 50)
+            EmojiView(symbol: "💩", size: 150, x: 0,  y: -20)
         
         }
         .frame(width: 200, height: 320)
